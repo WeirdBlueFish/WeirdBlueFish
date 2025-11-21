@@ -35,6 +35,9 @@ I bridge the gap between **Industrial Data Management** and **Modern Programming
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeirdBlueFish&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph"  />
 </div>
 
+<div align="center">
+  <img src="https://github.com/YOUR-USERNAME/YOUR-USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
 ---
 
 ### 🔗 Connect with Me

@@ -30,9 +30,9 @@ I bridge the gap between **Industrial Data Management** and **Modern Programming
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=WeirdBlueFish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph"  />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeirdBlueFish&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph"  />
 </div>
 
 ---

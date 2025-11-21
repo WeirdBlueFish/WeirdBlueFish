@@ -36,7 +36,7 @@ I bridge the gap between **Industrial Data Management** and **Modern Programming
 </div>
 
 <div align="center">
-  <img src="https://github.com/YOUR-USERNAME/YOUR-USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/WeirdBlueFish/WeirdBlueFish/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 ---
 
